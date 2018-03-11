@@ -1,6 +1,6 @@
 # goddess
 
-God/dess is an art work that uses the framework of early religions and the methodology and tools of contemporary technology to create a religious space that is free of bigotry, patriarchy and colonialism.
+God/dess is an art work that uses the framework of early religions and the methodology and tools of contemporary technology to create a religious space within a gallery that is free of bigotry, patriarchy and colonialism.
 
 Through the process of deconstruction, the works build around the ideas of a religion; basic rites that mark a human life, rituals to bind us together and a localised god/dess that gives guidance when asked.
 
