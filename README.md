@@ -1,4 +1,4 @@
-# goddess
+# god/dess
 
 God/dess is a participatory exhibition that explores queer theory through the creation of an open-source religion to which anyone can contribute.
 
